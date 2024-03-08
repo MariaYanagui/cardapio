@@ -1,4 +1,7 @@
-# inicio
+# CARDÁPIO  
 
-📋 SITE DE CARDÁPIO
-* Nesse site é composto por um cardápio de Esfihas Abertas tanto salgada como doce
+🚀 COMEÇANDO
+* O cardápio digital é utilizado pelos clientes que não comparecem aos restaurantes e acabam não tendo acesso ao cardápio físico para consultar quais comidas estão no menu, também se encontra o número do telefone fixo e o do WhatsApp do estabelicimento para entrarem em contato.
+![Telainicial](print.jpeg)
+
+
