@@ -1,0 +1,41 @@
+body {
+    background-color: #c0ac92;
+}
+h1 {
+    background-color: #ab937a;
+    text-align: center;
+    left: 60px;
+    top: 30%;
+}
+
+.container {
+    max-width: 2000px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+}
+.flex {
+	display: flex;
+}
+.flex-item-1 {
+	flex: 1;
+}
+.item {
+    
+    margin: 5px;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+img {
+    height: auto;
+    width: 25%;
+    top: -0%;
+}
+
+ul {
+    position: absolute;
+    left: 22%;
+    top: 15%;
+
+    height: auto;
+}
